@@ -1,6 +1,6 @@
 
 .bg-imgo{
-  background-image: url("../../static/offer/img/mat-d-27.jpeg");
+  background-image: url("../../static/img/home/houseBg.jpg");
   min-height: 650px;
   background-position: center;
   background-repeat: no-repeat;
@@ -11,7 +11,7 @@
 
 @media only screen and (max-width: 600px) {
   .bg-imgo{
-    background-image: url("../../static/offer/img/mat-d-27.jpeg");
+    background-image: url("../../static/img/home/houseBg.jpg");
     background-position-x: 64% !important;
     background-position-y: -13px;
 
