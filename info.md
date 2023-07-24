@@ -9,6 +9,9 @@ sudo chmod -R ug+w .;
 sudo find ~/Desktop/APP/GEG -name ".DS_Store" -delete
 
 ==========
+image clean 
+http://removephotodata.com/
+==========
 New purple color:  #260732
 
 ======================
