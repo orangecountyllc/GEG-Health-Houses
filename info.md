@@ -1,4 +1,11 @@
 
+http://localhost:3000/bf4/
+bi4/ 
+board/
+
+
+
+========= 
 fatal: Unable to create '/Users/jay/Desktop/EG/.git/index.lock': Permission denied
 
 sudo chmod -R 775 .git
