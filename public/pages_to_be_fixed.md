@@ -13,3 +13,6 @@ Fix about the work section.
 
 /careers
 
+
+> Remove this line from all places
+You are empowered and entrusted to deliver the quality results that best suits the unique needs of your customers.
