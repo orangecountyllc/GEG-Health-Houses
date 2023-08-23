@@ -11,3 +11,5 @@ http://localhost:3000/join-us/Project-Manager/index.html
 Fix about the work section. 
 
 
+/careers
+
