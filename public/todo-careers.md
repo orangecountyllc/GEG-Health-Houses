@@ -13,7 +13,7 @@ https://stackoverflow.com/questions/44667161/page-moving-left-and-right-while-in
 
 https://jobs.gecareers.com/healthcare/global/en/professionals
 Add bottom content to 
-http://localhost:3000/careers/values-and-culture/index.html
+http://localhost:3000/values-and-culture/index.html
 
 
 
@@ -28,7 +28,7 @@ copy  index-original-page.html to careers/index.html
 
 ==============
 Finish values and cultures page 
-http://localhost:3000/careers/values-and-culture/index.html
+http://localhost:3000/values-and-culture/index.html
 
 Do a lot of text and image changes.
 ==============
