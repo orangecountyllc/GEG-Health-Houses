@@ -1,5 +1,5 @@
 # GEG-Health-Houses
-https://github.com/orangecountyllc/GEG-Health-Houses
+orangecountyllc/GEG-Health-Houses
 
 
 Registered Nurse = Construction Manager
