@@ -12,7 +12,11 @@
 }
 
 .sec-bg{
+  padding-top: 27px;
+  padding-bottom: 20px;
     background-color: beige; 
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 .grey-bk{
@@ -24,6 +28,9 @@
 
 }
 
+/* .para-spacing{
+  margin-left: 10px;
+} */
 
 .img-right-arrow {
 	max-width: 25px;
