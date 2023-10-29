@@ -13,3 +13,7 @@ http://removephotodata.com/
 
 
 
+Remove - Infection control
+
+Agile mind
+An ability to rapidly move between patients, often working on different patients at the same time.
